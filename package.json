@@ -1,0 +1,25 @@
+{
+  "name": "react-native-android-notification-permission",
+  "version": "1.0.0",
+  "description": "check for notification permission of Android device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eaffy/react-native-android-notification-permission.git"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "notification",
+    "permission"
+  ],
+  "author": "Eaffy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eaffy/react-native-android-notification-permission/issues"
+  },
+  "homepage": "https://github.com/Eaffy/react-native-android-notification-permission#readme"
+}
