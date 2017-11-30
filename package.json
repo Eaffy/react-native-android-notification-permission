@@ -1,7 +1,7 @@
 {
   "name": "react-native-android-notification-permission",
-  "version": "1.0.0",
-  "description": "check for notification permission of Android device",
+  "version": "1.0.1",
+  "description": "判断 Android 设备是否开启远程通知————check for notification permission of Android device",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
     "notification",
     "permission"
   ],
-  "author": "Eaffy",
+  "author": "QiaoYiFei",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Eaffy/react-native-android-notification-permission/issues"
