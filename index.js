@@ -1,2 +1,2 @@
 import React, { NativeModules } from 'react-native';
-module.exports = NativeModules.RNAndroidNotificationPermission;
+module.exports = NativeModules.RNAndroidNotificationPermissionModule;

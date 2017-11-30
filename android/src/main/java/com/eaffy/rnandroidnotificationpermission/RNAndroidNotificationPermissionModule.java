@@ -23,11 +23,11 @@ import android.content.pm.ApplicationInfo;
 
 import com.facebook.react.ReactActivity;
 
-public class RNAndroidNotificatinPermissionModule extends ReactContextBaseJavaModule {
+public class RNAndroidNotificationPermissionModule extends ReactContextBaseJavaModule {
 
     ReactApplicationContext reactContext;
 
-    public RNAndroidNotificatinPermissionModule(ReactApplicationContext reactContext) {
+    public RNAndroidNotificationPermissionModule(ReactApplicationContext reactContext) {
         super(reactContext);
         this.reactContext = reactContext;
     }
