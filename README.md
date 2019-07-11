@@ -3,7 +3,7 @@
 #### Installing
 `npm install react-native-android-notification-permission --save`
 #### Lingking Native Dependencies
-`react-naitve link react-native-android-notification-permission`
+`react-native link react-native-android-notification-permission`
 #### Usage
 `import RNAndroidNotificationPermission from 'react-native-android-notification-permission';`
 ```
